@@ -5,10 +5,16 @@
 }
 
 .jumbotron { 
-    background-color: #f4511e; /* Orange */
+    background-color: #828589; /* Orange */
     color: #ffffff;
     text-align: center;
     padding: 100px 25px;
+    height: 500px;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed !important;
+    overflow:hidden;
 }
 
 .container-fluid {
@@ -27,7 +33,7 @@
 
 .navbar {
     margin-bottom: 0;
-    background-color: #f4511e;
+    background-color: #828589;
     z-index: 9999;
     border: 0;
     line-height: 1.42857143 !important;
@@ -40,7 +46,7 @@
 }
 
 .navbar-nav li a:hover, .navbar-nav li.active a {
-    color: #f4511e !important;
+    color: #828589 !important;
     background-color: #fff !important;
 }
 
