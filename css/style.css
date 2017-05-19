@@ -67,7 +67,7 @@
 
 .panel-heading {
     color: #fff !important;
-    background-color: #828589 !important;
+    background-color: rgba(34,34,34,0.9) !important;
     padding: 25px;
     border-bottom: 1px solid transparent;
     border-top-left-radius: 0px;
